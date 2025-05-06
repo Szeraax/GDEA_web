@@ -1,6 +1,6 @@
 # Summary
-# Legislature
-
+[Intro](Legislature.md)
+---
 - [Laws](Laws.md)
     - [6-301 Constitution](legislature/Laws/6-301%20Constitution.md)
     - [6-302 Line of Succession Act](legislature/Laws/6-302%20Line%20of%20Succession%20Act.md)
