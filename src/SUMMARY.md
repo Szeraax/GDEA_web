@@ -2,6 +2,20 @@
 [Intro](Legislature.md)
 
 ---
+
+- [Statutes](Statutes.md)
+    - [Battalions](legislature/Statutes/Battalions.md)
+    - [Character and Language](legislature/Statutes/Character%20and%20Language.md)
+    - [Constitution](legislature/Statutes/Constitution.md)
+    - [Document Standardization](legislature/Statutes/Document%20Standardization.md)
+    - [Elections](legislature/Statutes/Elections.md)
+    - [Legislation](legislature/Statutes/Legislation.md)
+    - [Line of Succession](legislature/Statutes/Line%20of%20Succession.md)
+    - [Mediation](legislature/Statutes/Mediation.md)
+    - [Retirement](legislature/Statutes/Retirement.md)
+    - [Trials](legislature/Statutes/Trials.md)
+    - [Vindicator Maximus](legislature/Statutes/Vindicator%20Maximus.md)
+
 - [Laws](Laws.md)
     - [6-301 Constitution](legislature/Laws/6-301%20Constitution.md)
     - [6-302 Line of Succession Act](legislature/Laws/6-302%20Line%20of%20Succession%20Act.md)
@@ -20,16 +34,3 @@
     - [9-101 Mediation Act](legislature/Laws/9-101%20Mediation%20Act.md)
     - [9-102 First Herald Renaming Act](legislature/Laws/9-102%20First%20Herald%20Renaming%20Act.md)
     - [11-102 Governmental Document Empowerment Act](legislature/Laws/11-102%20Governmental%20Document%20Empowerment%20Act.md)
-
-- [Statutes](Statutes.md)
-    - [Battalions](legislature/Statutes/Battalions.md)
-    - [Character and Language](legislature/Statutes/Character%20and%20Language.md)
-    - [Constitution](legislature/Statutes/Constitution.md)
-    - [Document Standardization](legislature/Statutes/Document%20Standardization.md)
-    - [Elections](legislature/Statutes/Elections.md)
-    - [Legislation](legislature/Statutes/Legislation.md)
-    - [Line of Succession](legislature/Statutes/Line%20of%20Succession.md)
-    - [Mediation](legislature/Statutes/Mediation.md)
-    - [Retirement](legislature/Statutes/Retirement.md)
-    - [Trials](legislature/Statutes/Trials.md)
-    - [Vindicator Maximus](legislature/Statutes/Vindicator%20Maximus.md)
