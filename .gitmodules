@@ -1,0 +1,3 @@
+[submodule "leg"]
+	path = src/legislature
+	url = https://github.com/Szeraax/Legislature
